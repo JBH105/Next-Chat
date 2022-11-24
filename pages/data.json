@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "meet",
+        "email": "meet@april.biz",
+        "password": "meet@april.biz"
+    },
+    {
+        "id": 2,
+        "name": "viraj",
+        "email": "viraj@gmail.com",
+        "password": "viraj@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "jaydeep",
+        "email": "jaydeep@gmail.com",
+        "password": "jaydeep@gmail.com"
+    },
+    {
+        "id": 4,
+        "name": "sahil",
+        "email": "sahil@gmail.com",
+        "password": "sahil@gmail.com"
+    }
+]
